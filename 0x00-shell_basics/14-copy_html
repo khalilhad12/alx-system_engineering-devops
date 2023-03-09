@@ -1,1 +1,1 @@
-cp -un ".html ../
+cp -un *.html ../
