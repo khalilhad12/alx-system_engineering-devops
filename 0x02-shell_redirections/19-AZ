@@ -1,2 +1,2 @@
-#!/bin/bashi
-tr Ac Ze
+#!/bin/bash
+tr [A,c] [Z,e]
